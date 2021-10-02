@@ -2,7 +2,7 @@ React Component Structure
 * index.js - Entry point into React Application
     * App.js - Includes Pomodoro App
         * /pomodoro/Pomodoro.js 
-        - sends changeMax={changeTime} getTime={getTime} mode="focus" to Initialize.js; 
+        - sends changeTime={changeTime} getTime={getTime} mode="focus" to Initialize.js; 
         - sends playPause={playPause} get={get} stop={stop} to StartStop.js
         - sends getTime={getTime} get={get} to FocusTimer.js
         - sends get={get} to Progress.js
