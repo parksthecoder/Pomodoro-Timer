@@ -39,6 +39,7 @@ function StartStop( {playPause, get, stop} ) {
             type="button"
             className="btn btn-secondary"
             title="Stop the session"
+            data-testid="stop"
 						onClick={stop}
 						disabled={!get("isTimerRunning")}
           >
