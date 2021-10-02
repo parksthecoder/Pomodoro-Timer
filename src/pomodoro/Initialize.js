@@ -44,7 +44,7 @@ function Initialize( {changeTime, getTime, mode} ) {
 						<button
 							type="button"
 							className="btn btn-secondary"
-							data-testid={`duration-${mode}`}
+							data-testid={`increase-${mode}`}
 							onClick={handleChange}
 						>
 							<span className="oi oi-plus" />

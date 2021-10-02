@@ -95,7 +95,7 @@ function Pomodoro() {
    * focusTime, focusTimeLeft, breakTime, breakTimeLeft
    */
   function getTime(mode) {
-    return `${pad(Math.floor(timer[mode] / 60))} :${pad(timer[mode] % 60)}`;
+    return `${pad(Math.floor(timer[mode] / 60))}:${pad(timer[mode] % 60)}`;
   }
 
   /**
