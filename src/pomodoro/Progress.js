@@ -11,7 +11,7 @@ function Progress({ get }) {
 	if(!get("sessionStarted")) return null;
 
 	const currMode = get("focus") ? "focus" : "break";
-	const time = 100 - (100 * (get(`${currMode}Left`) / get(`${currMode}Max`)));
+	const time = 100 - (100 * (get(`${currMode}TimeLeft`) / get(`${currMode}Time`)));
 
 	return (
 		<div className="row mb-2">

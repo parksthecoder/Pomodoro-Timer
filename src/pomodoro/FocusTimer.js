@@ -18,10 +18,10 @@ function FocusTimer( {getTime, get} ) {
 			<div className="col">
 				<h2 data-testid="session-title">
 					{get("focus") ? "Focusing " : "On Break "}
-					for {getTime(`${currMode}Max`)} minutes
+					for {getTime(`${currMode}Time`)} minutes
 				</h2>
 				<p className="lead" data-testid="session-sub-title">
-					{getTime(`${currMode}Left`)} remaining
+					{getTime(`${currMode}TimeLeft`)} remaining
 				</p>
 				<h3>{!get("isTimerRunning") ? "PAUSED" : ""}</h3>
 			</div>
