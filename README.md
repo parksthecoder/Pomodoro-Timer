@@ -1,6 +1,7 @@
 Pomodoro Timer
 
 A classic Pomodoro Timer inspired by the Pomodoro Technique which is a time management system designed by Francesco Cirillo to increase productivity.
+https://parksthecoder.github.io/Pomodoro_Timer/
 * set the Focus Timer
 * set the Break Timer
   
