@@ -1,12 +1,13 @@
 Pomodoro Timer
 
 A classic Pomodoro Timer inspired by the Pomodoro Technique which is a time management system designed by Francesco Cirillo to increase productivity.
-    * set the Focus Timer
-    * set the Break Timer
-When the Focus Timer runs out and the loading bar fills completely your Break Time starts!
+* set the Focus Timer
+* set the Break Timer
+  
+ When the Focus Timer runs out and the loading bar fills completely your Break Time starts!
 
 
-![Alt text](/../Pomodoro-Timer_Project/screenshots/Screen%20Shot%202022-03-15%20at%202.57.00%20AM.png?raw=true "Pomodoro Timer")
+![Alt text](/../Pomodoro-Timer_Project/screenshots/pomodoro.png?raw=true "Pomodoro Timer")
 
 React Component Structure
 * index.js - Entry point into React Application
