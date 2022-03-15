@@ -6,8 +6,7 @@ A classic Pomodoro Timer inspired by the Pomodoro Technique which is a time mana
   
  When the Focus Timer runs out and the loading bar fills completely your Break Time starts!
 
-
-![Alt text](/../Pomodoro-Timer_Project/screenshots/pomodoro.png?raw=true "Pomodoro Timer")
+![image info](../Pomodoro-Timer_Project/screenshots/pomodoro.png)
 
 React Component Structure
 * index.js - Entry point into React Application
