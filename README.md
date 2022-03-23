@@ -8,6 +8,7 @@ A classic Pomodoro Timer inspired by the Pomodoro Technique which is a time mana
  When the Focus Timer runs out and the loading bar fills completely your Break Time starts! Time to focus!
 
 Live Link -> https://parksthecoder.github.io/Pomodoro_Timer/
+
 ![alt text](https://github.com/parksthecoder/Pomodoro_Timer/blob/main/screenshots/pomodoro.png?raw=true)
 
 React Component Structure
