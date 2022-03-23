@@ -7,7 +7,7 @@ https://parksthecoder.github.io/Pomodoro_Timer/
   
  When the Focus Timer runs out and the loading bar fills completely your Break Time starts! Time to focus!
 
-![alt text](https://github.com/parksthecoder/Pomodoro_Timer/blob/main/screenshots/pomodoro.png?raw=true)
+Live Link -> ![alt text](https://github.com/parksthecoder/Pomodoro_Timer/blob/main/screenshots/pomodoro.png?raw=true)
 
 React Component Structure
 * index.js - Entry point into React Application
